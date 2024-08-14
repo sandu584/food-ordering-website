@@ -1,7 +1,7 @@
 const _0x2475e7 = _0x2f5a;
 (function (_0x2ad733, _0x3041ae) {
   const _0x5e4448 = _0x2f5a,
-    _0x5dda81 = _0x2ad7();
+    _0x5dda81 = _0x2ad733();
   while (!![]) {
     try {
       const _0x206547 =
